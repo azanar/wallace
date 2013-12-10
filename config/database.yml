@@ -1,0 +1,60 @@
+# == Base
+internal: &internal
+  adapter: postgresql
+  encoding: unicode
+  pool: 4
+  username: <%= ENV['PG_USER'] || 'postgres' %>
+  password: <%= ENV['PG_PASSWORD'] %>
+  host:     <%= ENV['PG_HOST'] || 'localhost' %>
+
+external: &external
+  adapter: postgresql
+  encoding: unicode
+  pool: 4
+  port: 5432
+  username: pocketchange
+  password: UAnH9XkdDz9bxc
+
+# == Configuration
+development:
+  <<: *internal
+  database: pocketchange_dev
+  port: 5432
+
+test:
+  <<: *internal
+  database: pocketchange_test
+  min_messages: WARNING
+  
+sandbox:
+  <<: *external
+  database: pc_staging
+  host: db2
+  
+staging:
+  <<: *external
+  database: pc_staging
+  host: db11
+
+production:
+  <<: *external
+  database: pc_production
+  host: localhost # pgpool
+  port: 5433
+
+events:
+  <<: *external
+  database: events
+  host: localhost # pgpool
+  port: 5434
+
+slave:
+  <<: *external
+  database: pc_production
+  host: db1
+
+stats:
+  <<: *external
+  database: events
+  host: db5
+

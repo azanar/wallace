@@ -1,0 +1,144 @@
+# Logfile created on 2013-09-10 14:18:20 -0700 by logger.rb/36483
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Reading configuration from 
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Enabling the Request Sampler.
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Environment: development
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : No known dispatcher detected.
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Application: development
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Installing Net instrumentation
+[09/10/13 14:18:20 -0700 Bunsen.local (60237)] INFO : Finished instrumentation
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Reading configuration from 
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Enabling the Request Sampler.
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Environment: development
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : No known dispatcher detected.
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Application: development
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Installing Net instrumentation
+[09/10/13 14:18:44 -0700 Bunsen.local (60308)] INFO : Finished instrumentation
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Reading configuration from 
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Enabling the Request Sampler.
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Environment: development
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : No known dispatcher detected.
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Application: development
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Installing Net instrumentation
+[09/10/13 14:19:51 -0700 Bunsen.local (60368)] INFO : Finished instrumentation
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Reading configuration from 
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Enabling the Request Sampler.
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Environment: development
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : No known dispatcher detected.
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Application: development
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Installing Net instrumentation
+[09/10/13 14:33:58 -0700 Bunsen.local (60665)] INFO : Finished instrumentation
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Reading configuration from 
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Enabling the Request Sampler.
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Environment: development
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : No known dispatcher detected.
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Application: development
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Installing Net instrumentation
+[09/10/13 14:37:20 -0700 Bunsen.local (60955)] INFO : Finished instrumentation
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Reading configuration from 
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Enabling the Request Sampler.
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Environment: development
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : No known dispatcher detected.
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Application: development
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Installing Net instrumentation
+[09/10/13 15:37:45 -0700 Bunsen.local (61870)] INFO : Finished instrumentation
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Reading configuration from 
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Enabling the Request Sampler.
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Environment: development
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : No known dispatcher detected.
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Application: development
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Installing Net instrumentation
+[09/10/13 15:44:02 -0700 Bunsen.local (62197)] INFO : Finished instrumentation
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Reading configuration from 
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Enabling the Request Sampler.
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Environment: development
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : No known dispatcher detected.
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Application: development
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Installing Net instrumentation
+[09/10/13 15:45:54 -0700 Bunsen.local (62392)] INFO : Finished instrumentation
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Reading configuration from 
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Enabling the Request Sampler.
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Environment: development
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : No known dispatcher detected.
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Application: development
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Installing Net instrumentation
+[09/10/13 15:47:34 -0700 Bunsen.local (62479)] INFO : Finished instrumentation
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Reading configuration from 
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Enabling the Request Sampler.
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Environment: development
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : No known dispatcher detected.
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Application: development
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Installing Net instrumentation
+[09/10/13 15:47:44 -0700 Bunsen.local (62546)] INFO : Finished instrumentation
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Reading configuration from 
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Enabling the Request Sampler.
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Environment: development
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : No known dispatcher detected.
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Application: development
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Installing Net instrumentation
+[09/10/13 15:48:17 -0700 Bunsen.local (62619)] INFO : Finished instrumentation
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Reading configuration from 
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Enabling the Request Sampler.
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Environment: development
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : No known dispatcher detected.
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Application: development
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Installing Net instrumentation
+[09/10/13 15:48:25 -0700 Bunsen.local (62686)] INFO : Finished instrumentation
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : Starting the New Relic agent in "development" environment.
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : Reading configuration from 
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : Enabling the Request Sampler.
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : Environment: development
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : No known dispatcher detected.
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] INFO : Application: development
+[09/10/13 16:19:46 -0700 Bunsen.local (63398)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/10/13 16:19:47 -0700 Bunsen.local (63398)] INFO : Installing Net instrumentation
+[09/10/13 16:19:47 -0700 Bunsen.local (63398)] INFO : Finished instrumentation
